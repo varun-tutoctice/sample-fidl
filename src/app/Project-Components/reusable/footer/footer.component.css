@@ -1,0 +1,35 @@
+
+footer.nb-footer {
+  background: rgba(38,41,43,1);
+  overflow-x: hidden;
+  /* border-top: 4px solid rgba(0,23,113,1);  */
+  }
+
+
+
+
+
+
+
+  h3{
+    font-size: 16px;
+    color: whitesmoke;
+  }
+
+
+  .footer-font {
+    white-space: nowrap;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(142,145,148,1);
+    letter-spacing: 1px;
+  }
+
+
+  @media (max-width: 768px) {
+    .list-unstyled {
+            text-align: center;
+     }
+  }

@@ -1,0 +1,24 @@
+
+.navbar-fixed-top {
+
+  box-shadow: none !important;
+}
+.navbar-fixed-top.scrolled {
+  background-color: rgba(0,23,113,1) !important;
+  transition: background-color 200ms linear !important;
+  border-bottom: 2px solid white;
+  margin-top: 0px !important;
+  transition: 0.4s !important;
+
+}
+
+.navbar {
+  transition: 0.4s !important;
+}
+
+.navbar-fixed-top.scrolled .nav-link {
+  color:white;
+}
+
+
+
