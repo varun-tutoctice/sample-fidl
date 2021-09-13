@@ -1,0 +1,47 @@
+.bg {
+  /* The image used */
+  background-image: url("../../../assets/Background/News/laptop-3196481_1920.jpg");
+
+  /* background-color: #36096d;
+background-image: linear-gradient(315deg, #36096d 0%, #37d5d6 74%); */
+  /* background-color: #2a2a72;
+  background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%); */
+  /* Full height */
+  height: 90%;
+  /* background-attachment: fixed; */
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* opacity: 0.574;
+  background-color: rgba(40,59,142,1); */
+
+}
+
+
+#Path_stories{
+  /* opacity: 0.574; */
+  background-color: rgba(40,59,142,.574);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+}
+
+h2 {
+
+  line-height: 30px;
+  font-size: 20px;
+  text-align: left;
+  font-style: normal;
+  font-weight: bold;
+  color: rgba(0,23,113,1);
+  text-transform: uppercase;
+}
+
+.fit-image {
+  height: 300px;
+  width: 400px;
+}

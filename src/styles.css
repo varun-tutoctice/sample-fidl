@@ -148,3 +148,12 @@ box-shadow: none !important;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+
+
+.text-white {
+  color: white !important;
+}
+
+.text-content {
+  font-size: 16px;
+}

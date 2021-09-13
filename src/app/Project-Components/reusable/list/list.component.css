@@ -1,0 +1,15 @@
+.fit-image{
+  height: 100px;
+  width: 150px;
+}
+
+h5 {
+  font-size: 18px;
+  color: rgba(0,23,113,1);
+  font-weight: 800;
+}
+
+.details {
+
+  border: 1px solid #2e73dc;
+}
