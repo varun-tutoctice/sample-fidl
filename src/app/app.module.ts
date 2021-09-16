@@ -13,6 +13,7 @@ import { WhoAboutComponent } from './Project-Components/about/who-about/who-abou
 import { WhatAboutComponent } from './Project-Components/about/what-about/what-about.component';
 import { ListComponent } from './Project-Components/reusable/list/list.component';
 import { CarouselComponent } from './Project-components/reusable/carousel/carousel.component';
+import { WhyAboutComponent } from './Project-Components/about/why-about/why-about.component';
 
 
 
@@ -30,6 +31,7 @@ import { CarouselComponent } from './Project-components/reusable/carousel/carous
     WhatAboutComponent,
     ListComponent,
     CarouselComponent,
+    WhyAboutComponent,
   ],
   imports: [
     BrowserModule,

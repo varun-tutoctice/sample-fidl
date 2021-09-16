@@ -91,3 +91,11 @@ text-transform: uppercase;
 .card-box-text {
   font-weight: normal; font-size: 14px !important; color: white; text-align: left; line-height: 28px !important;
 }
+
+.title-container {
+  background-color: rgba(0,0,0,0.5); width: 50%; max-height: 50%; position: absolute; margin-top: 300px; bottom: 0;
+}
+
+.video-play-button {
+  background-color: rgba(0,0,0,0.5); position: absolute; position: absolute; margin-top: 300px; bottom: 0; right: 0; z-index: 1; cursor: pointer;
+}

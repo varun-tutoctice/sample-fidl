@@ -57,16 +57,20 @@ h2 {
 
 
 .card-box-header {
-  font-weight: 500; font-size: 18px; color: white; text-align: left; text-transform: uppercase;
+  font-weight: 500; font-size: 18px; color: white; text-align: left; text-transform: uppercase; font-weight: 600;
 }
 
 
 .card-box-text {
-  font-weight: normal; font-size: 14px; color: white; text-align: left; line-height: 28px !important;
+  font-weight: normal; font-size: 16px; color: white; text-align: left; line-height: 28px !important;
 }
 
 .card-box-button {
   font-size: 18px; font-weight: 500; padding: 15px !important;
+}
+
+.f-14 {
+  font-size: 14px;
 }
 
 

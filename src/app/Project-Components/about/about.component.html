@@ -6,6 +6,7 @@
   </div>
 </div>
 
+
 <div class="p-3" style="background-color: rgba(0,112,209,1); overflow: hidden;">
   <ul class="nav nav-justified nav-tabs" id="justifiedTab" role="tablist">
     <li class="nav-item">
@@ -25,10 +26,22 @@
 
 <div class="tab-content" id="myTabContent" style="overflow: hidden;">
   <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-    <app-who-about></app-who-about>
+    <div class="container">
+      <app-who-about></app-who-about>
+    </div>
+
   </div>
-  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">...</div>
-  <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">...</div>
+  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+
+      <app-why-about></app-why-about>
+
+  </div>
+  <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+    <div class="container">
+      <app-what-about></app-what-about>
+    </div>
+
+  </div>
   <div class="tab-pane fade" id="how" role="tabpanel" aria-labelledby="how-tab">...</div>
 </div>
 
